@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 I am a Research Associate at [International Centre for Bamboo and Rattan](https://www.icbr.ac.cn/).
-My research interests include (1) Soil organic carbon stabilization mechanism, (2) Nutrient regulation of carbon cycling in forests, and (3) Plant-soil interactions.
+My research interests include (i) Soil organic carbon stabilization mechanism, (ii) Nutrient regulation of carbon cycling in forests, and (iii) Plant-soil interactions.
 
 [Email](mailto:liuxtxt@yeah.net) /[Github](https://github.com/liuxtxt)/
